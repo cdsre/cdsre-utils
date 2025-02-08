@@ -7,4 +7,5 @@ import "github.com/cdsre/cdsre-utils/cmd"
 
 func main() {
 	cmd.Execute()
+
 }
